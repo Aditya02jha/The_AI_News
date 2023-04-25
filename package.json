@@ -2,6 +2,7 @@
   "name": "alan_ai_news_application",
   "version": "0.1.0",
   "private": true,
+  
   "dependencies": {
     "@alan-ai/alan-sdk-web": "^1.8.43",
     "@emotion/react": "^11.10.6",
